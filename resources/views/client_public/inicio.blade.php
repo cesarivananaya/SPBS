@@ -790,8 +790,8 @@
               <li><i class="bx bx-chevron-right"></i> <a href="inicio#about">Nosotros</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="/cat">Productos</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="/admin">Administrador</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Terminos de servicio</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Políticas de privacidad</a></li>
             </ul>
           </div>
 
