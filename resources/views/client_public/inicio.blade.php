@@ -59,7 +59,7 @@
   <header id="header" class="fixed-top d-flex align-items-cente">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-lg-between">
 
-      <h1 class="logo me-auto me-lg-0"><a href="#hero">spbs</a></h1>
+      <h1 class="logo me-auto me-lg-0"><a href="#hero">SPBS</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo me-auto me-lg-0"><img src="assets/assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
@@ -124,7 +124,7 @@
     <div class="container position-relative text-center text-lg-start" data-aos="zoom-in" data-aos-delay="100">
       <div class="row">
         <div class="col-lg-8">
-          <h1>Bienvenido a <span>spbs</span></h1>
+          <h1>Bienvenido a <span>SPBS</span></h1>
           <h2>Trabajando desde 2019 en el cuidado de tus pestañas.</h2>
 
           <div class="btns">
@@ -168,7 +168,7 @@
               <li><i class="bi bi-check-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
             </ul> --}}
             <p style="font-size: 20px">
-            <b style="color:#F1176D">spbs</b> se esfuerza por ser la tienda referente en la industria de la belleza, ofreciendo una amplia gama de productos de alta calidad que permiten a nuestros clientes expresar su creatividad, individualidad y estilo único.
+            <b style="color:#F1176D">SPBS</b> se esfuerza por ser la tienda referente en la industria de la belleza, ofreciendo una amplia gama de productos de alta calidad que permiten a nuestros clientes expresar su creatividad, individualidad y estilo único.
             </p>
           </div>
         </div>
@@ -736,7 +736,7 @@
               <div class="phone">
                 <i class="bi bi-phone"></i>
                 <h4>Teléfono:</h4>
-                <p>+1 5589 55488 55s</p>
+                <p>+1 5589 55488 55</p>
               </div>
 
             </div>
@@ -785,7 +785,7 @@
 
           <div class="col-lg-3 col-md-6">
             <div class="footer-info">
-              <h2>spbs</h2>
+              <h2>SPBS</h2>
               <p>
                 C. Independencia 55, Centro <br>
                 44100 Guadalajara, Jal<br><br>
@@ -840,7 +840,7 @@
 
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <strong><span>spbs</span></strong>. All Rights Reserved
+        &copy; Copyright <strong><span>SPBS</span></strong>. All Rights Reserved
       </div>
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->
