@@ -710,7 +710,7 @@
 
               <div class="email">
                 <i class="bi bi-envelope"></i>
-                <h4>Email:</h4>
+                <h4>Correo:</h4>
                 <p>info@example.com</p>
               </div>
 
