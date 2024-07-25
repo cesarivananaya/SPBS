@@ -287,12 +287,6 @@
                   <div class="col-lg-8 details order-2 order-lg-1">
                     <h3>Valores</h3>
                     <ul style="list-style: none;font-size:14px" style="font-size:14px" class="fst-italic">
-                      <li><i class="bi bi-check-circle"></i> Unmatched Quality</li>
-                      <li><i class="bi bi-check-circle"></i> Personalized Experience</li>
-                      <li><i class="bi bi-check-circle"></i> Excelence</li>
-                      <li><i class="bi bi-check-circle"></i> Naturality</li>
-                    </ul>
-                    <ul style="list-style: none;">
                       <li><i class="bi bi-check-circle"></i> Calidad Inigualable</li>
                       <li><i class="bi bi-check-circle"></i> Experiencia Personalizada</li>
                       <li><i class="bi bi-check-circle"></i> Excelencia</li>
