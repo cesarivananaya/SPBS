@@ -784,7 +784,7 @@
           </div>
 
           <div class="col-lg-2 col-md-6 footer-links">
-            <h4>Useful Links</h4>
+            <h4>Enlaces Útiles</h4>
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="/inicio">Página principal</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="inicio#about">Nosotros</a></li>
