@@ -274,7 +274,7 @@
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-3">Visión</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" data-bs-toggle="tab" href="#tab-4">Nombre</a>
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-4">Aviso de provacidad</a>
               </li>
               {{-- <li class="nav-item">
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-5">Iusto ut expedita aut</a>
@@ -319,6 +319,7 @@
                     <p>Ser líderes reconocidos en la industria de cuidado de pestañas, siendo un referente de excelencia, autenticidad e innovación. Aspiramos a expandir nuestra presencia global, llegando a clientes de todos los rincones del mundo con productos que no solo cumplen con los estándares más altos, sino que también impulsan la industria hacia adelante. Buscamos ser un símbolo de confianza y calidad en el mundo del realce de pestañas, contribuyendo a la autoestima y la expresión personal de nuestros clientes.
                     </p>
                   </div>
+                  
                   {{-- <div class="col-lg-4 text-center order-1 order-lg-2">
                     <img src="assets/assets/img/specials-3.png" alt="" class="img-fluid">
                   </div> --}}
@@ -327,15 +328,16 @@
               <div class="tab-pane" id="tab-4">
                 <div class="row">
                   <div class="col-lg-8 details order-2 order-lg-1">
-                    <h3>Nombre</h3>
-                    <p style="font-size:14px" class="fst-italic"><b>spbs</b> is the acronym for Sofia & Paulette Beauty Salon, with Sofia and Paulette being the founders of the brand. Furthermore, it seeks to imitate the essence of a palindrome, which, when divided in half, reflects the other side, just like a mirror.</p>
-                    <p><b>spbs</b> es el acrónimo para Sofia & Paulette Beauty Salon, siendo Sofia y Paulette las fundadoras de la marca. Además, busca imitar la esencia de un palíndromo, que, al dividirlo por la mitad, refleja al otro lado, al igual que un espejo.</p>
+                    <h3>Aviso de privacidad</h3>
+                    <p style="font-size:14px" class="fst-italic"><b>spbs</b> En SPBS, tu privacidad es nuestra prioridad. Recopilamos y utilizamos tus datos personales únicamente para procesar tus pedidos y mejorar tu experiencia de compra. No compartiremos tu información con terceros sin tu consentimiento, salvo cuando sea necesario para cumplir con obligaciones legales. Para más información, consulta nuestra política de privacidad completa en nuestro sitio web.</p>
+                    <p><b>spbs</b> </p>
                   </div>
                   <div class="col-lg-4 text-center order-1 order-lg-2">
                     <img src="assets/assets/img/spbs.png" alt="" class="img-fluid">
                   </div>
                 </div>
               </div>
+              
               {{-- <div class="tab-pane" id="tab-5">
                 <div class="row">
                   <div class="col-lg-8 details order-2 order-lg-1">
